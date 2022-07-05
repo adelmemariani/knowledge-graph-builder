@@ -1,9 +1,11 @@
 **Disclaimer:** This tool is a work in progress. It means some features are not fully implemented yet.
 
+The knowledeg-graph-builder, provides a simple way for non-expert users to make RDF-based knowledge graphs through a user-interface. 
+
+
+
 ![knowledge-graph-builder](https://github.com/adelmemariani/knowledge-graph-builder/blob/main/screenshots/1.png)
 ![knowledge-graph-builder](https://github.com/adelmemariani/knowledge-graph-builder/blob/main/screenshots/2.png)
-
-The knowledeg-graph-builder, provides a simple way for non-expert users to make RDF-based knowledge graphs through a user-interface. 
 
 
 1- Install npm:
